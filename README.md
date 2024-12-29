@@ -1,8 +1,9 @@
-# React + Vite
+# Contact Page Buily By React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I built this website for brush up my react Concepts.
 
-Currently, two official plugins are available:
+## RUN INSTRUCTION
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Clone the repository
+2. Change the Path directory by using this command i.e: "cd figmadesignpro2"
+3. Then in command pallete run this command: "npm run dev"
